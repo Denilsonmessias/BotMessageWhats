@@ -1,2 +1,3 @@
 # BotMessageWhats
- Mensagem automatizada no Whats com Python
+<hr>
+ Mensagem automatizada pra um contato específico no Whats, usando Python.
